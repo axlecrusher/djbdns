@@ -1,1 +1,1 @@
-gcc -O2 -include /usr/include/errno.h -Wimplicit -Wunused -Wcomment -Wchar-subscripts -Wuninitialized -Wshadow -Wcast-qual -Wcast-align
+gcc -O2 -include /usr/include/errno.h
